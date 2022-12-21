@@ -1,0 +1,179 @@
+* {
+  box-sizing: border-box;
+}
+.haeder {
+  background-color: #efa71f;
+  height: 218px;
+  position: relative;
+}
+.contanier{
+  grid-template-columns: repeat(50% 50%);
+}
+.summary {
+  color: white;
+  margin: 30px 0 0 0;
+}
+.m1 {
+  position: relative;
+}
+.m2 {
+  height: 400px;
+  position: absolute;
+  top: 10px;
+  overflow: hidden;
+  left: 40px;
+}
+.main {
+  grid-template-columns: repeat(50% 50%);
+  background-color: #26303a;
+  position: static;
+  height: 1600px;
+}
+.name {
+  background-color: #efa71f;
+  height: 80px;
+  width: 410px;
+  position: relative;
+  top: 122px;
+  text-align: center;
+  color: white;
+}
+svg {
+  color: #efa71f;
+  margin-right: 8px;
+}
+.information {
+  position: relative;
+  top: 160px;
+  left: 30px;
+  color: white;
+}
+.side_line {
+  position: absolute;
+  top: 6px;
+  left: -30px;
+  background-color: #efa71f;
+  width: 20px;
+  height: 188px;
+}
+.LAN {
+  color: white;
+  font-size: 30px;
+  position: relative;
+  top: 220px;
+  left: 20px;
+}
+.ll {
+  position: relative;
+  top: 223px;
+  color: white;
+  width: 340px;
+}
+.languag {
+  position: relative;
+  top: 240px;
+  left: 30px;
+  color: white;
+}
+.most {
+  position: relative;
+  top: 290px;
+  left: 22px;
+  color: white;
+  font-size: 30px;
+}
+.hr2 {
+  position: relative;
+  top: 295px;
+  color: white;
+  width: 340px;
+}
+.project div a{
+  color: royalblue;
+  left: 20px ;
+  size: 16px;
+  text-decoration: none;
+}
+.most_of {
+  color: white;
+  position: relative;
+  top: 310px;
+  left: 30px;
+}
+.hobb {
+  position: relative;
+  top: 380px;
+  left: 22px;
+  color: white;
+  font-size: 35px;
+}
+.hr3 {
+  position: relative;
+  top: 360px;
+  color: white;
+  width: 340px;
+}
+.HOBBIS_1 {
+  color: white;
+  width: 395px;
+  height: 200px;
+  position: relative;
+  top: 370px;
+}
+.HOBBIS_2 {
+  color: white;
+  width: 395px;
+  height: 200px;
+  position: relative;
+  top: 450px;
+}
+.project{
+  color: white;
+  width: 395px;
+  height: 200px;
+  position: relative;
+  top: 450px;
+  left: 20px;
+
+}
+.p1 {
+  border: 2px solid #efa71f;
+  background-color: #efa71f;
+}
+.work {
+  color: white;
+  position: relative;
+  top: -1120px;
+  right: -580px;
+}
+.education {
+  color: white;
+  position: relative;
+  top: -1120px;
+  right: -580px;
+}
+.person {
+  color: white;
+  position: relative;
+  top: -1090px;
+  right: -580px;
+}
+progress::-webkit-progress-value {
+  background: #efa71f;
+}
+.MMM {
+  margin-bottom: 10px;
+}
+.p22 {
+  color: #efa71f;
+  margin-bottom: 5px;
+}
+.courses {
+  color: white;
+  position: relative;
+  top: -1070px;
+  right: -580px;
+}
+.div1 {
+  margin-bottom: 15px;
+}
